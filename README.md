@@ -43,6 +43,7 @@ _Explore all [repositories](https://github.com/Ethan830?tab=repositories) for de
 
 🔍 **What I'm working on:**
 
+- Building electrical engineering background for a career in the semiconductor industry
 - Advanced reinforcement learning applications for autonomous systems
 - Computer vision techniques for real-world robotics integration
 - Scalable backend systems and software architecture
@@ -51,7 +52,7 @@ _Explore all [repositories](https://github.com/Ethan830?tab=repositories) for de
 
 ## Let's Connect
 
-- 🔗 **GitHub:** [github.com/Ethan830](https://github.com/Ethan830)
+- 🔗 **Linkedin:** [www.linkedin.com/in/ethany830](https://www.linkedin.com/in/ethany830)
 - 💼 **Open to:** Software engineering internships, robotics projects, AI/ML collaborations
 - 📧 Interested in opportunities or technical discussions? Feel free to reach out!
 
