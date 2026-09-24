@@ -3,7 +3,7 @@
 
 ## About Me
 
-👋 Hi! I'm **Ethan Yang**, a software engineering student at **Emory University** passionate about building intelligent systems and innovative solutions. I specialize in **robotics**, **computer vision**, and **artificial intelligence** with strong expertise in **Java** and **Python**. I'm actively seeking software engineering internship opportunities where I can apply my technical expertise and contribute to impactful projects.
+👋 Hi! I'm **Ethan Yang**, a software engineering student at **Emory University** passionate about building intelligent systems and innovative solutions. I specialize in **semiconductors**, **integrated circuits**, and **artificial intelligence** with strong expertise in **Java** and **Python**. I'm actively seeking software engineering internship opportunities where I can apply my technical expertise and contribute to impactful projects.
 
 - 🎓 **Education:** Emory University
 - 💻 **Primary Languages:** Java, Python
